@@ -1,0 +1,119 @@
+📈 Анализ для AMD:
+R² = 0.034
+         Feature  Coefficient
+0  positive_lag1     0.000000
+1  negative_lag1    -0.003543
+2   neutral_lag1     0.107624
+3  positive_lag2     0.000000
+4  negative_lag2    -0.011674
+5   neutral_lag2     0.094733
+
+📈 Анализ для BA:
+R² = 0.022
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1 -3.095329e-02
+2   neutral_lag1 -2.669554e-02
+3  positive_lag2  3.469447e-18
+4  negative_lag2 -2.975237e-02
+5   neutral_lag2 -8.646505e-02
+
+📈 Анализ для XOM:
+R² = 0.017
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1  1.101386e-02
+2   neutral_lag1  6.038270e-03
+3  positive_lag2 -8.673617e-19
+4  negative_lag2  9.660676e-03
+5   neutral_lag2  2.335937e-02
+
+📈 Анализ для INTC:
+R² = 0.005
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1 -7.355877e-03
+2   neutral_lag1  1.733871e-02
+3  positive_lag2  3.469447e-18
+4  negative_lag2 -7.224513e-03
+5   neutral_lag2  5.866933e-03
+
+📈 Анализ для GS:
+R² = 0.027
+         Feature  Coefficient
+0  positive_lag1     0.000000
+1  negative_lag1     0.102103
+2   neutral_lag1    -0.326090
+3  positive_lag2     0.000000
+4  negative_lag2     0.158457
+5   neutral_lag2    -0.116197
+
+📈 Анализ для JPM:
+R² = 0.029
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1  3.292822e-02
+2   neutral_lag1 -1.103172e-01
+3  positive_lag2 -2.775558e-17
+4  negative_lag2  5.405614e-02
+5   neutral_lag2 -3.158679e-02
+
+📈 Анализ для CVX:
+R² = 0.007
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1  6.517834e-03
+2   neutral_lag1  1.935894e-03
+3  positive_lag2 -8.673617e-19
+4  negative_lag2  5.504099e-03
+5   neutral_lag2  1.454691e-02
+
+📈 Анализ для GD:
+R² = 0.043
+         Feature  Coefficient
+0  positive_lag1     0.000000
+1  negative_lag1     0.030627
+2   neutral_lag1     0.052853
+3  positive_lag2     0.000000
+4  negative_lag2     0.027972
+5   neutral_lag2     0.086682
+
+📈 Анализ для NVDA:
+R² = 0.016
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1  4.223559e-02
+2   neutral_lag1 -6.075270e-02
+3  positive_lag2 -1.387779e-17
+4  negative_lag2  5.165503e-02
+5   neutral_lag2  1.062024e-02
+
+📈 Анализ для DUK:
+R² = 0.006
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1  1.075493e-02
+2   neutral_lag1 -7.761241e-03
+3  positive_lag2 -1.734723e-18
+4  negative_lag2  9.781933e-03
+5   neutral_lag2  2.637945e-03
+
+📈 Анализ для BAC:
+R² = 0.019
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1  6.198896e-03
+2   neutral_lag1 -1.580385e-02
+3  positive_lag2 -1.734723e-18
+4  negative_lag2  7.779153e-03
+5   neutral_lag2 -2.388295e-03
+
+📈 Анализ для LMT:
+R² = 0.008
+         Feature   Coefficient
+0  positive_lag1  0.000000e+00
+1  negative_lag1  7.572004e-02
+2   neutral_lag1 -2.775885e-02
+3  positive_lag2 -1.387779e-17
+4  negative_lag2  6.825538e-02
+5   neutral_lag2  6.661900e-02

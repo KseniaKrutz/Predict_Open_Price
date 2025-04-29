@@ -1,0 +1,9 @@
+venv/
+*.pyc
+__pycache__/
+*.pkl
+*.h5
+*.hdf5
+*.csv
+*.sqlite3
+.vscode/
